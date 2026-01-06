@@ -1,15 +1,6 @@
 # tp-bachelor
 
-## 1 Initialiser le dépôt
-
-Initialise un dépôt Git local dans le dossier courant :
-
-```bash
-git init
-```
-
-Résultat : Initialized empty Git repository in /Users/appadourailouis/Documents/3W Academy Bachelor 1/UE4/Projet-Git/tp-bachelor/.git/
-## 0 copie le projet depuis le dépôt initial
+## 1 copie le projet depuis le dépôt initial
 
 ```bash
 git clone https://github.com/cecilev-axe/tp-bachelor.git
@@ -21,6 +12,16 @@ remote: Counting objects: 100% (10/10), done.
 remote: Compressing objects: 100% (6/6), done.  
 remote: Total 10 (delta 0), reused 10 (delta 0), pack-reused 0 (from 0)  
 Receiving objects: 100% (10/10), done.
+
+## Initialiser le dépôt
+
+Initialise un dépôt Git local dans le dossier courant :
+
+```bash
+git init
+```
+
+Résultat : Initialized empty Git repository in /Users/appadourailouis/Documents/3W Academy Bachelor 1/UE4/Projet-Git/tp-bachelor/.git/
 
 ## Vérifie l’état du dépôt (aucun changement pour l’instant)
 
@@ -249,4 +250,5 @@ Résultats (Permet de vérifier l’ordre et le contenu des commits : L’ajout 
 d6c1d66 Ajout d'une quatrième image et d'un dot supplémentaire  
 d94cb86 first commit  
 8d5a76b first commit
+
 
