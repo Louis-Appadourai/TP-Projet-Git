@@ -1,6 +1,6 @@
 # tp-bachelor
 
-## 0 Initialiser le dépôt
+## 1 Initialiser le dépôt
 
 Initialise un dépôt Git local dans le dossier courant :
 
@@ -8,9 +8,8 @@ Initialise un dépôt Git local dans le dossier courant :
 git init
 ```
 
-Résultat : Initialized empty Git repository in /Users/appadourailouis/Documents/3W Academy Bachelor 1/UE4/Projet-Git/.git/
-
-## 1 copie le projet depuis le dépôt initial
+Résultat : Initialized empty Git repository in /Users/appadourailouis/Documents/3W Academy Bachelor 1/UE4/Projet-Git/tp-bachelor/.git/
+## 0 copie le projet depuis le dépôt initial
 
 ```bash
 git clone https://github.com/cecilev-axe/tp-bachelor.git
@@ -250,3 +249,4 @@ Résultats (Permet de vérifier l’ordre et le contenu des commits : L’ajout 
 d6c1d66 Ajout d'une quatrième image et d'un dot supplémentaire  
 d94cb86 first commit  
 8d5a76b first commit
+
